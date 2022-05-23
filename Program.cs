@@ -9,6 +9,7 @@ namespace eShop_Levi_Lewis
     internal class Program
     {
        public static string UserName = "";
+       public static string Password = "";
 
 
         static void Start()
